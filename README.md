@@ -1,2 +1,11 @@
 # ink-cheatsheet
-Cheatsheet for writing in Ink
+
+## Choices
+
+Simple
+
+```
+Hello world!
+*    Hello back!
+    Nice to hear from you!
+```
